@@ -1,8 +1,6 @@
 # Assessment-3
 Link to the live site  https://joanameta.github.io/Assessment-3/
                                  
-                                 ASSESSMENT 3
-
 
 Live map
 
